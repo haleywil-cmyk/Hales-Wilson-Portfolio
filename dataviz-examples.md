@@ -83,7 +83,8 @@ In Class Example - Trust in the news
     <param name='language' value='en-US' />
     <param name='filter' value='publish=yes' />
   </object>
-</div>                
+</div>
+
       <script type='text/javascript'>                    
         var divElement = document.getElementById('viz1774282182394');                    
         var vizElement = divElement.getElementsByTagName('object')[0]; 
