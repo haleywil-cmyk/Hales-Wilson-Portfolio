@@ -14,9 +14,10 @@ Global Slavery Index: https://www.walkfree.org/global-slavery-index/#:~:text=An%
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
-The number of products stood out to me first as the key was color-coded and had corresponding symbols. I thought the graph did well in telling me which of the G20 countries spend the most money on imports derived from modern slave labor. This was done in ascending ranking order. At first, I thought the stacked bar graph was a little jumbled, and didn't show the proportion of country spending to the product. This specific graph of many visualizations did not have a title, so it took reading supporting paragraphs to understand what was being presented.
+
+_The number of products stood out to me first as the key was color-coded and had corresponding symbols. I thought the graph did well in telling me which of the G20 countries spend the most money on imports derived from modern slave labor. This was done in ascending ranking order. At first, I thought the stacked bar graph was a little jumbled, and didn't show the proportion of country spending to the product. This specific graph of many visualizations did not have a title, so it took reading supporting paragraphs to understand what was being presented.
 I think the primary audience for this tool is individuals in global leadership positions, such as CEOs of corporations and politicians, who would be able to combat countries' roles in modern slave labor. I think it is definitely effective in showing the correlation between a country's spending and the overexploitation of its underdeveloped countries' resources. Additionally, I think the data visualization could also appeal to smaller communities to inform them about how modern-day luxuries are obtained and to rally support for ending modern slavery.
-For some reason, I really like using a map visualization and will try to use that to show how the 20 different countries are complicit in modern slavery. I think I would also want to show that different countries invest more in different products.
+For some reason, I really like using a map visualization and will try to use that to show how the 20 different countries are complicit in modern slavery. I think I would also want to show that different countries invest more in different products._
 
 ## Step three: Sketch a solution
 
@@ -36,12 +37,19 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
+- Does a map work well with telling this data-driven story?
+- Can you understand the relation of the countries to the items?
+- What could make the design clearer?
+- Do you have any other suggestions for visualization?
+
+
 Results: 
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
 | Question | Interview 1 | Interview 2 |
+|Does a map work well with telling this data-driven story?          |             |             |
 |----------|-------------|-------------|
 |          |             |             |
 |          |             |             |
