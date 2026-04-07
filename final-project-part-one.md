@@ -6,11 +6,20 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+I want to showcase the relationship of arts intervention and incarceration to create a narrative that properly allocated and funded arts education programs could help reduce juvenile detention rates. This story would explore the mangled history of incarceration in the United States and how we have relied on a system of punishment rather than rehabilitation. The audience of this story includes community members to rally local support with the intentions of advocating to local and state politicians. I will primarly pull quantative data on juvenile detention and incarceration as a whole including how many juveniles are currently held in confinement (and the types of detention centers), changes since 2000 of youth in adult prisons, etc. I also planned to use data support such as arts intervention role in reduced recidivism, skill development, and improved mental health. By the end of the project, the goal is to end on a postive outlook and to provide the audience with the information that the arts has the potential to change lives.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
 Text here...
+One sentence Summary:
+   Proper arts education funding helps decrease juvenile retention rates and increase post-secondary professional development.
+Simplified Sentence Summary:
+   Properly funded arts education helps youth stay on positive paths.
+
+As a reader, I want more policy support for arts education so that I can change the opinions and outlook on juveniles. I can do this by educating and organizing with my local community and then advocate with our local and state politicians.
+
+
+Building on my emotional story arc from class, this project would start and in th
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
