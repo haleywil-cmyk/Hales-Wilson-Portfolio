@@ -27,7 +27,7 @@ The story would slowly start to look up as I shift to how arts intervention has 
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
+![IMG_1688](https://github.com/user-attachments/assets/12ff9186-6ea0-41ef-a733-4e7b9a5f70c1)
 ![IMG_1684](https://github.com/user-attachments/assets/3c32ed26-781e-4f69-ae6f-0b12189e7a40)
 ![IMG_1685](https://github.com/user-attachments/assets/58453f90-aed5-491c-9559-37bba56ec3fd)
 ![IMG_1683](https://github.com/user-attachments/assets/d607ec68-d58b-4554-ada9-20b28949170d)
@@ -42,7 +42,7 @@ The data I am pulling together moves through real highs and lows, starting heavy
 | Name | URL | Description |
 |------|-----|-------------|
 |World Prison Brief: Prison Population Brief |https://www.prisonstudies.org/highest-to-lowest/prison_population_rate?field_region_taxonomy_tid=All|Data on the world's prison population including total, rates, pretrial detainees/remand prisoners, foreign prisoners, etc.    |
-|Prison Policy Initiative|https://www.prisonpolicy.org/reports/youth2025.html|According to the report, there are approximately 34,000 youth currently confined in the United States, and after more than two decades of steady declines, juvenile courts detained and committed nearly 2,000 (6%) more youth in 2023 than in 2022 — marking the second consecutive year of increasing youth confinement.|
+|Prison Policy Initiative|https://www.prisonpolicy.org/reports/youth2025.html|According to the report, there are approximately 34,000 youth currently confined in the United States, and after more than two decades of steady declines, juvenile courts detained and committed nearly 2,000 (6%) more youth in 2023 than in 2022.|
 |Data support for arts intervention |https://repository.usfca.edu/cgi/viewcontent.cgi?article=1008&context=pna |Research consistently demonstrates that arts intervention programs in correctional settings reduce recidivism and parole violations, improve inmate behavior (including a 29% drop in discipline reports), enhance mental health outcomes, and build prosocial skills|
 |Call out stats: Prohibitive Costs | https://justicepolicy.org/research/policy-brief-2020-sticker-shock-the-cost-of-youth-incarceration | The U.S. spends an average of $214,620 per year to incarcerate one youth; mandating arts-based rehabilitation shifts funds from "warehousing" to cost-effective, long-term recidivism reduction.|
 |NEA Allocation History| https://www.arts.gov/about/appropriations-history | History of NEA funding|
@@ -55,10 +55,27 @@ For my final project, I am planning to use Shorthand as my main platform to buil
 
 ## References
 _List any references you used here._
+American Civil Liberties Union. (n.d.). Mass incarceration. https://www.aclu.org/issues/smart-justice/mass-incarceration
+Arts Education Partnership. (n.d.). Arts education in juvenile justice systems. https://www.aep-arts.org/arts-education-in-juvenile-justice-systems/
+
+Chorus America. (n.d.). Government affairs update: NEA funding, support, increase arts in juvenile justice. https://chorusamerica.org/publications/blog/government-affairs-update-nea-funding-support-increase-arts-juvenile-justice
+
+Families Against Mandatory Minimums. (2021, April). Bill summary: First Step Implementation Act (S. 1014). https://famm.org/wp-content/uploads/2021/04/First-Step-Implementation-Act-Summary.pdf
+
+Federal Bureau of Investigation. (n.d.). Crime data explorer: Arrest data. U.S. Department of Justice. https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/arrest
+
+Juvenile Justice Education Blueprint. (n.d.). National: Title I, Part D, Every Student Succeeds Act (ESSA). https://www.jjeducationblueprint.org/examples/national-%E2%80%93-title-i-part-d-every-student-succeeds-act-essa
+Nam-Sonenstein, B. (2025, August). Youth confinement: The whole pie 2025. Prison Policy Initiative. https://www.prisonpolicy.org/reports/youth2025.html
+
+National Catholic Reporter. (n.d.). Senate Judiciary Committee, led by a Catholic, offers hope amid polarization. https://www.ncronline.org/opinion/senate-judiciary-committee-led-catholic-offers-hope-amid-polarization
+
+Rhoads, M., & Rhee, N. (2024, February 4). Public funding for the arts 2024. Grantmakers in the Arts. https://reader.giarts.org/read/public-funding-for-the-arts-2024
+
+Sawyer, W., Nam-Sonenstein, B., & Wagner, P. (2026, March 11). Mass incarceration: The whole pie 2026. Prison Policy Initiative. https://www.prisonpolicy.org/reports/pie2026.html
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
-I used Claude, an AI assistant, to help with grammar, punctuation, and the overall flow of my writing throughout this project. All ideas, research, and original content are my own.
+I used Claude, an AI assistant, to help with citation generation, grammar, punctuation, and the overall flow of my writing throughout this project. All ideas, research, and original content are my own.
 
 
