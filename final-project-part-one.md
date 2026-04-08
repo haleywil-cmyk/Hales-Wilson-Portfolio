@@ -28,7 +28,9 @@ The story would slowly start to look up as I shift to how arts intervention has 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+![IMG_1684](https://github.com/user-attachments/assets/3c32ed26-781e-4f69-ae6f-0b12189e7a40)
+![IMG_1685](https://github.com/user-attachments/assets/58453f90-aed5-491c-9559-37bba56ec3fd)
+![IMG_1683](https://github.com/user-attachments/assets/d607ec68-d58b-4554-ada9-20b28949170d)
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
@@ -49,10 +51,14 @@ The data I am pulling together moves through real highs and lows, starting heavy
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+For my final project, I am planning to use Shorthand as my main platform to build an interactive, scroll-based narrative that moves the reader through the emotional highs and lows of my story arc. I want to use Tableau to create data visualizations, and I am really interested in experimenting with overlapping graphics and layered visuals to make the data feel more dynamic and less static. I think playing with how visuals transition and interact with each other as the reader scrolls will help reinforce the emotional tone of each section, especially when shifting from the heavy incarceration data into the more hopeful arts intervention research. Like our TA Danielle showed us with her final project, I also want to weave together quantitative data, qualitative research, and personal anecdotes to create a well rounded composition that hits both intellectually and emotionally.
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
+I used Claude, an AI assistant, to help with grammar, punctuation, and the overall flow of my writing throughout this project. All ideas, research, and original content are my own.
+
+
