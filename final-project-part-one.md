@@ -10,16 +10,20 @@ I want to showcase the relationship of arts intervention and incarceration to cr
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
-Text here...
+
 One sentence Summary:
-   Proper arts education funding helps decrease juvenile retention rates and increase post-secondary professional development.
+
+   Proper arts programs funding helps decrease juvenile retention rates and increase post-secondary professional development.
+   
 Simplified Sentence Summary:
-   Properly funded arts education helps youth stay on positive paths.
 
-As a reader, I want more policy support for arts education so that I can change the opinions and outlook on juveniles. I can do this by educating and organizing with my local community and then advocate with our local and state politicians.
+   Properly funded arts progrmas helps youth stay on positive paths.
 
+As a reader, I want more policy support for arts programming so that I can change the opinions and outlook on juveniles. I can do this by educating and organizing with my local community and then advocate with our local and state politicians.
 
-Building on my emotional story arc from class, this project would start and in th
+Building on my story arc from class, this project would start extremely emotionally low as I introduce the history of incarceration in the United States coupled with data about the states with the highest detention rates. I would also employ ethos using real stories and case studies. The emotion would continue to decrease as I also introduce some of the social stigmas associated like how carceral systems disproportionately affect Black and Brown youth more than white youth.
+
+The story would slowly start to look up as I shift to how arts intervention has been known to help people have been incarcerated, and how prior arts programming could prevent people from following difficult paths. I would also introduce how much federal funding was allocated to the arts pre-covid. However, the emotion would drop slightly again as I would show how Covid and adminstration changes caused arts funding to drop significantly. To pull the story visualization to a close, I would once again employ real life stories from people who have been rehabilitated with the help of arts intervention. This includes states that have successfully created state-level policies supporting education in juvenile justice systems.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -35,10 +39,10 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
+|World Prison Brief: Prison Population Brief |https://www.prisonstudies.org/highest-to-lowest/prison_population_rate?field_region_taxonomy_tid=All|Data on the world's prison population including total, rates, pretrial detainees/remand prisoners, foreign prisoners, etc.    |
 |      |     |             |
 |      |     |             |
-|      |     |             |
-
+|
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
