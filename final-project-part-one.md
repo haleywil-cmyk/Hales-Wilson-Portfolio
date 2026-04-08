@@ -33,16 +33,19 @@ Text here...
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+The data I am pulling together moves through real highs and lows, starting heavy with the history of incarceration in the United States, detention rate data, and the disproportionate impact on Black and Brown youth, then slowly shifting as research shows how arts intervention produces real, measurable outcomes for incarcerated people. Public funding data shows how much support the arts had before covid and budget cuts created serious gaps in access for the young people who need it most. The project closes on purpose and possibility, lifting up real people who found their way through arts programming and pointing to states that have already built policy frameworks supporting arts in juvenile justice systems, because the goal is to move readers from frustration to action.
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
 
 | Name | URL | Description |
 |------|-----|-------------|
 |World Prison Brief: Prison Population Brief |https://www.prisonstudies.org/highest-to-lowest/prison_population_rate?field_region_taxonomy_tid=All|Data on the world's prison population including total, rates, pretrial detainees/remand prisoners, foreign prisoners, etc.    |
-|      |     |             |
-|      |     |             |
-|
+|Prison Policy Initiative|https://www.prisonpolicy.org/reports/youth2025.html|According to the report, there are approximately 34,000 youth currently confined in the United States, and after more than two decades of steady declines, juvenile courts detained and committed nearly 2,000 (6%) more youth in 2023 than in 2022 — marking the second consecutive year of increasing youth confinement.|
+|Data support for arts intervention |https://repository.usfca.edu/cgi/viewcontent.cgi?article=1008&context=pna |Research consistently demonstrates that arts intervention programs in correctional settings reduce recidivism and parole violations, improve inmate behavior (including a 29% drop in discipline reports), enhance mental health outcomes, and build prosocial skills|
+|Call out stats: Prohibitive Costs | https://justicepolicy.org/research/policy-brief-2020-sticker-shock-the-cost-of-youth-incarceration | The U.S. spends an average of $214,620 per year to incarcerate one youth; mandating arts-based rehabilitation shifts funds from "warehousing" to cost-effective, long-term recidivism reduction.|
+|NEA Allocation History| https://www.arts.gov/about/appropriations-history | History of NEA funding|
+|Public Funding for the Arts| https://reader.giarts.org/read/public-funding-for-the-arts-2024#_ednref4 |Public funding for the arts totaled $1.8 billion across federal, state, and local governments in fiscal year 2024, reflecting the scale and structure of publicly funded arts support nationwide.|
+|Art Education in Juvenile Justice|https://www.aep-arts.org/arts-education-in-juvenile-justice-systems/|The Arts Education Partnership's resource on arts education in juvenile justice systems to look at how states like Colorado, Indiana, Louisiana, Nevada, and New Jersey have already passed state level policies that support arts programming and education for youth involved in or at risk of entering the justice system.
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
 
