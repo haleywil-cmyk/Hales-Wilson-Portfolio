@@ -55,6 +55,7 @@ For my final project, I am planning to use Shorthand as my main platform to buil
 
 ## References
 _List any references you used here._
+
 American Civil Liberties Union. (n.d.). Mass incarceration. https://www.aclu.org/issues/smart-justice/mass-incarceration
 Arts Education Partnership. (n.d.). Arts education in juvenile justice systems. https://www.aep-arts.org/arts-education-in-juvenile-justice-systems/
 
