@@ -57,7 +57,19 @@ Text here!
 
 ## References
 _List any references you used here._
+National Bureau of Statistics of China. (2021, May 11). Main data of the seventh national population census [Press release]. https://www.stats.gov.cn/english/PressRelease/202105/t20210510_1817185.html
+United States Census Bureau. (2021, December 21). New vintage 2021 population estimates available for the nation, states and Puerto Rico [Press release]. https://www.census.gov/newsroom/press-releases/2021/2021-population-estimates.html
+Institute for Crime and Justice Policy Research (ICPR), Birkbeck, University of London. (2021). World prison brief: Highest to lowest — prison population total. https://www.prisonstudies.org/highest-to-lowest/prison-population-total
+Carson, E. A. (2022, December). Prisoners in 2021 — statistical tables (NCJ 305125). Bureau of Justice Statistics, U.S. Department of Justice. https://bjs.ojp.gov/library/publications/prisoners-2021-statistical-tables
+Kluckow, R., & Zeng, Z. (2023, March). Correctional populations in the United States, 2021 — statistical tables (NCJ 305542). Bureau of Justice Statistics, U.S. Department of Justice. https://bjs.ojp.gov/library/publications/correctional-populations-united-states-2021-statistical-tables
+Wilson, H. (n.d.). Telling stories [Pinterest board]. Pinterest. https://www.pinterest.com/haleywils12/telling-stories/
+Wikipedia. (2024). Comparison of United States incarceration rate with other countries. Wikimedia Foundation. https://en.wikipedia.org/wiki/Comparison_of_United_States_incarceration_rate_with_other_countries
+Carrdus, B., & Irwin, P. (2024). UHRP analysis finds 1 in 26 Uyghurs imprisoned in region with world's highest prison rate. Uyghur Human Rights Project. https://uhrp.org/insights/uhrp-analysis-finds-1-in-26-uyghurs-imprisoned
+Gramlich, J. (2021, August 16). America's incarceration rate falls to lowest level since 1995. Pew Research Center. https://www.pewresearch.org/short-reads/2021/08/16/americas-incarceration-rate-lowest-since-1995/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Claude (Anthropic) was used as an AI assistant during the production of this work in the following limited capacity:
+1.  Data visualization troubleshooting: Claude was consulted to troubleshoot the creation of a nested treemap in RAWGraphs 2.0, including guidance on proper data formatting (long format CSV), variable mapping (Hierarchy, Size, Color fields), and resolving issues with nested tile display.
+2.  Citation generation: Claude assisted in formatting citations for the sources listed above in APA style, based on URLs and data provided by the author. All sources were identified and selected by the author; Claude formatted the citations and conducted supplementary web searches to verify publication dates and authorship details.
 
