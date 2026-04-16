@@ -1,11 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-[Text here!
+For more final project I want the design elements to reflect the heaviness of the subject matter but the potential to make this topic end on a lighter note. This would come in the form of a primarily dark color pallette with pops of color. I would also like to see if I can transition from darker background to eventual lighter concept to reflect this transition. It would also be nice to employ color fade transitions and dual scrolls.
 ](https://preview.shorthand.com/w8tHcnDFO3Zs0a9k/responsive/desktop)
 
+<img width="4812" height="3357" alt="Untitled_Artwork (1)" src="https://github.com/user-attachments/assets/69a49976-ea14-4f27-a731-7f1414231d61" />
+
+As far a story elements, I plan to employ a timeline to display the history element of incarceration. I would then shift to employing some data sets to reflect some of the systemic inequalities these systems have created (school-to-prison-pipeline and racial discrepencies). I would also like to pull in impact stories for emotional influence and use Indiana's state-level arts education plan as a policy case. The goal is to end on a positive note about how transformative arts intervention can be to a corrupt system such as incarceration. 
 
 # User research 
 
@@ -49,9 +50,10 @@ Text here!
 |There is a lot of data/information I can include, such as China prison population/world population and how that compares to the US world leader in prisoners | In the beginning, introduce call out statistics, Could employ treemap visualization for specific China/US comparison |
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+<img width="2160" height="1620" alt="Aesthetic_Moodboard_" src="https://github.com/user-attachments/assets/0539e838-de6a-4601-90e1-a8b7240cd586" />
 
-Text here!
+<img width="2160" height="1620" alt="_Design_Mood_board_" src="https://github.com/user-attachments/assets/d8ea7131-706b-467b-96fd-3caf1e87dc7b" />
+
 
 ## References
 _List any references you used here._
