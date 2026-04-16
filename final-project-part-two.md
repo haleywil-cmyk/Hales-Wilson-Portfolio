@@ -14,14 +14,14 @@ My target audience is local residents of Allegheny County including individuals 
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
-
+-  Inform audience about intracacies of incarceration systems in the United States
 Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|Draft a choesive presentation deck (not too much information and ties together research) |                  |
-|Unique enough project to differ from previous presentations but build on existing data |                  |
-|      |                  |
+|Draft a choesive presentation deck (not too much information and ties together research) | Which data should I focus on/ which data better tells the story? |
+|Unique enough project to differ from previous presentations but build on existing data | What can I pull from this previous project and what new information can I include to make story stronger? |
+|Present that people in the prison systems, especially our youth, do not deserve to be forgotten and arts intervention is impactful | How can I tie arts intervention to positive impacts on juvenile crime without the direct data? |
 
 
 Text here!
@@ -34,7 +34,7 @@ Text here!
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
+|How can sy                         |                                |             |             |
 |                         |                                |             |             |
 
 
@@ -45,9 +45,9 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-| I might inquire an audiences                                         |                                                                                 |
-|                                          |                                                                                 |
+|Current outline includes a lot of information and interviewees wonder how I will narrow/focus to a cohesive storyline | I will focus more on providing contextual information on incarceration and will save arts intervention for the call to action |
+| It could be interesting to report to an audience with no knowledge (or care) for the subject | Will employ contextual history and current systems in the form of a timeline, real life references, and data |
+|There is a lot of data/information I can include, such as China prison population/world population and how that compares to the US world leader in prisoners | In the beginning, introduce call out statistics, Could employ treemap visualization for specific China/US comparison |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
