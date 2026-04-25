@@ -23,9 +23,14 @@ I felt my title slide should give an overview of the entire research topic rathe
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+This project utilized Artificial Intelligence (AI) tools to assist in research, technical troubleshooting, and editorial refinement:
+
+Claude (Anthropic): Utilized for historical research and locating primary and secondary sources regarding pre-20th-century incarceration and the origins of the U.S. penal system.
+
+Gemini (Google): Utilized for editorial support, including grammar and narrative flow refinement, APA 7th edition citation generation, and technical troubleshooting for HTML/iFrame embedding within the Shorthand platform. Additionally, Gemini provided consultation on data visualization strategies to effectively communicate systemic disparities.
+
+All final editorial decisions, data interpretations, and creative compositions were made by the author to ensure accuracy and personal agency.
 
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
